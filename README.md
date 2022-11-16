@@ -1,2 +1,2 @@
-# TIDE
-Main repository for TIDE
+# Welcome to the NWFSC Team for Inclusion, Diversity, and Equity (TIDE)!
+
