@@ -13,3 +13,6 @@ Email TIDE related annoucements directly to the TIDE email list: nmfs.nwfsc.tide
 # Agendas
 TIDE holds a monthly meeting from 12-12:50pm.
 For agendas and past notes, please look [here](https://drive.google.com/drive/folders/1iB92uy8Ezs77BdMUOW5uaE3SeDt_qeA0?usp=share_link)
+
+# 2023 Action Plan
+What are folks up to? See [here](https://docs.google.com/document/d/1Q-78a6MIfEZohoZ-ykA3G7FLHeFZLcl4KTKlSl6wOC4/edit?pli=1#)!
