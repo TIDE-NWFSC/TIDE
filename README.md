@@ -7,6 +7,8 @@ Please join the TIDE calendar! For adding events to the TIDE calendar, please em
 
 You can also join the NOAA EEO and DEIA events calendar [here](https://calendar.google.com/calendar?cid=bm9hYS5nb3ZfMzQzNTM4MzczNzM3MzkzNjM1MzMzNUByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t)
 
+The NOAA EEO and DEIA newsletter and other items can be found [here](https://sites.google.com/noaa.gov/inside-fisheries-eeo/eeo-and-diversity)
+
 # TIDE email list
 Email TIDE related annoucements directly to the TIDE email list: nmfs.nwfsc.tide.announcements@noaa.gov
 
