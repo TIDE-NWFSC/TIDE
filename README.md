@@ -18,6 +18,8 @@ The NOAA EEO and DEIA newsletter and other items can be found [here](https://sit
 
 The Asian Employee Resource Group (ERG) newsletter archive can be accessed [here](https://drive.google.com/drive/folders/1liko5QlRY3kqzHv1bt6eTW75a4vYUXRD)
 
+Other newsletters we can include? Email nwfsc.tide@Noaa.gov for with suggestions.
+
 # TIDE email list
 Email TIDE related annoucements directly to the TIDE email list: nmfs.nwfsc.tide.announcements@noaa.gov
 
