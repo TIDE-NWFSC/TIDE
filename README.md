@@ -14,9 +14,9 @@ You can also join the [NOAA EEO and DEIA events calendar](https://calendar.googl
 
 # Newsletters
 
-The NOAA EEO and DEIA newsletter and other items can be found [here](https://sites.google.com/noaa.gov/inside-fisheries-eeo/eeo-and-diversity)
+The **NOAA EEO and DEIA newsletter** and other items can be found [here](https://sites.google.com/noaa.gov/inside-fisheries-eeo/eeo-and-diversity)
 
-The Asian Employee Resource Group (ERG) newsletter archive can be accessed [here](https://drive.google.com/drive/folders/1liko5QlRY3kqzHv1bt6eTW75a4vYUXRD)
+The **Asian Employee Resource Group (ERG) newsletter** archive can be accessed [here](https://drive.google.com/drive/folders/1liko5QlRY3kqzHv1bt6eTW75a4vYUXRD)
 
 Other newsletters we can include? Email nwfsc.tide@Noaa.gov for with suggestions.
 
