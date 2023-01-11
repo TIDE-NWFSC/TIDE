@@ -2,6 +2,8 @@
 
 Questions about TIDE? Please email nwfsc.tide@Noaa.gov for help.
 
+The TIDE charter can be found [here](https://docs.google.com/document/d/1tnuN9zeBjft9vDutrXoJKurlD8jQ069VNowFtdJ1YQA/edit?pli=1). Please reach out with any comments and suggestions. 
+
 # Events Calendar
 Please join the TIDE calendar! For adding events to the TIDE calendar, please email nwfsc.tide@Noaa.gov
 
