@@ -5,12 +5,12 @@ Questions about TIDE? Please email nwfsc.tide@Noaa.gov for help.
 # 2023 Action Plan and Charter
 What is TIDE up to? See [here](https://docs.google.com/document/d/1Q-78a6MIfEZohoZ-ykA3G7FLHeFZLcl4KTKlSl6wOC4/edit?pli=1#)!
 
-The TIDE charter can be found [here](https://docs.google.com/document/d/1tnuN9zeBjft9vDutrXoJKurlD8jQ069VNowFtdJ1YQA/edit?pli=1). Please reach out with any comments and suggestions. 
+The **TIDE charter** can be found [here](https://docs.google.com/document/d/1tnuN9zeBjft9vDutrXoJKurlD8jQ069VNowFtdJ1YQA/edit?pli=1). Please reach out with any comments and suggestions. 
 
 # Events Calendar
-Please join the TIDE calendar! For adding events to the TIDE calendar, please email nwfsc.tide@Noaa.gov
+Please join the **TIDE calendar**! For adding events to the TIDE calendar, please email nwfsc.tide@Noaa.gov
 
-You can also join the NOAA EEO and DEIA events calendar [here](https://calendar.google.com/calendar?cid=bm9hYS5nb3ZfMzQzNTM4MzczNzM3MzkzNjM1MzMzNUByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t)
+You can also join the [NOAA EEO and DEIA events calendar](https://calendar.google.com/calendar?cid=bm9hYS5nb3ZfMzQzNTM4MzczNzM3MzkzNjM1MzMzNUByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t)
 
 # Newsletters
 
