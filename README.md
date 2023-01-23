@@ -7,6 +7,8 @@ What is TIDE up to? See [here](https://docs.google.com/document/d/1Q-78a6MIfEZoh
 
 The **TIDE charter** can be found [here](https://docs.google.com/document/d/1tnuN9zeBjft9vDutrXoJKurlD8jQ069VNowFtdJ1YQA/edit?pli=1). Please reach out with any comments and suggestions. 
 
+See where TIDE fits into the NWFSC [Annual Guidance Memorandum](https://drive.google.com/drive/folders/1KOVVG1Pd78b65HOZss4thInV_HN2Ohmi)
+
 # Events Calendar
 Please join the **TIDE calendar**! For adding events to the TIDE calendar, please email nwfsc.tide@Noaa.gov
 
