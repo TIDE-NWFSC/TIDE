@@ -9,6 +9,8 @@ The **TIDE charter** can be found [here](https://docs.google.com/document/d/1tnu
 
 See where TIDE fits into the NWFSC [Annual Guidance Memorandum](https://drive.google.com/drive/folders/1KOVVG1Pd78b65HOZss4thInV_HN2Ohmi)
 
+NOAA Science Advisory Board [Report](https://sab.noaa.gov/wp-content/uploads/Report-on-DEIA-at-NOAA_4-20-2023_Final.pdf?utm_medium=email&utm_source=FYI&dm_i=1ZJN,89SUE,OVQV88,XZTHN,1) on DEIA advances and critical needs
+
 # Events Calendar
 Please join the **TIDE calendar**! For adding events to the TIDE calendar, please email nwfsc.tide@Noaa.gov
 
